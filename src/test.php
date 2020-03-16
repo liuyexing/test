@@ -1,6 +1,6 @@
 <?php
 
-namespace lyx\aliyun;
+namespace liuyexing\aliyun;
 
 class test{
 	

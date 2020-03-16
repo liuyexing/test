@@ -1,5 +1,5 @@
 {
-    "name": "lyx/aliyun",
+    "name": "liuyexing/aliyun",
     "description": "this is my test",
     "type": "library",
     "authors": [
@@ -12,7 +12,7 @@
     "require": {},
 	"autoload":{
 		"psr-4":{
-			"lyx\\aliyun\\":"src/"
+			"liuyexing\\aliyun\\":"src/"
 		}
 	}
 }
